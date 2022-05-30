@@ -1,0 +1,36 @@
+ body {
+background-color: #f3904f;
+color: #f9ffcc;
+display: flex;
+flex-direction: column;
+max-height: 50%;
+max-width: 1000px;
+margin: auto;
+border: solid;
+}
+img{
+  width:300px;
+  height:300px;
+}
+nav{
+  background-color: #f3904f;
+  font-size: 20px;
+  text-align: center;
+}
+nav a{
+  color: #f9ffcc;
+  margin-right: 10px;
+}
+
+nav a:hover{
+  color:brown;
+}
+
+}
+
+}
+.titulo h4{
+  margin-top: 0;
+  padding: 0;
+  
+}
